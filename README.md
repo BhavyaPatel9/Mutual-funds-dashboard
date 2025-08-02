@@ -18,3 +18,6 @@ A Streamlit-based interactive dashboard for analyzing mutual fund performance, t
 - ⚖️ **Risk and Volatility Analysis**: Standard deviation, Sharpe ratio, and more.  
  
 
+[Scheme Code](https://www.amfiindia.com/spages/NAVO...)
+
+[mftool Documentation](https://mftool.readthedocs.io/en/latest/)
