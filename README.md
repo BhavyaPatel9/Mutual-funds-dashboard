@@ -1,9 +1,4 @@
-**Mutual Funds Dashboard** 
-hosted on Streamlit:
----
-
-````markdown
-# 📊 Mutual Funds Dashboard
+#  Mutual Funds Dashboard
 
 A Streamlit-based interactive dashboard for analyzing mutual fund performance, trends, and risk metrics. It offers dynamic visualizations and filters to help users explore various mutual fund schemes with ease.
 
@@ -12,16 +7,14 @@ A Streamlit-based interactive dashboard for analyzing mutual fund performance, t
 
 ---
 
-
----
-
 ## ⚙️ Features
 
-- 📈 **Interactive visualizations** for NAV trends, category performance, and fund comparisons.
-- 🔍 **Search and filter** funds by AMC, type (Equity/Debt/Hybrid), or risk level.
-- 🧮 **Statistical metrics** like CAGR, volatility, drawdown.
-- 🧾 **Top holdings** and fund manager insights.
-- 📊 **Pie charts, line plots, and histograms** for portfolio analysis.
-
----
+- 📄 **View Available Schemes**: Browse all mutual fund schemes across AMCs.  
+- 📋 **Scheme Details**: View fund objectives, category, risk level, and more.  
+- 📈 **Historical NAV**: Analyze Net Asset Value trends over time.  
+- 🔀 **Compare NAVs**: Select multiple schemes and compare their performance.  
+- 💰 **Average AUM**: Get average Assets Under Management insights.  
+- 🔥 **Performance Heatmap**: Visual summary of scheme performance across periods.  
+- ⚖️ **Risk and Volatility Analysis**: Standard deviation, Sharpe ratio, and more.  
+ 
 
